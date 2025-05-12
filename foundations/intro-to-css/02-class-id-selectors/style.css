@@ -1,0 +1,17 @@
+.n1 , .n3 , .n5 {
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ background-color: red;
+}
+#n2{
+    color: blue;
+    font-size: 36px;
+}
+.n3 {
+    font-size: 24px;
+}
+#n4{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+    
+}
